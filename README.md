@@ -2,7 +2,7 @@ Team Members:
 
 - Abdullahi (Group Leader)
 - Aisha
-- Ali Ali
+- Bashir Maxamed
 
 Summary:
 In the first iteration, we used YouTrack to create and manage tasks for the Trivia Maze project. We estimated task durations and tracked progress across the development week.
